@@ -1,6 +1,4 @@
 // Sven Reyes
-// CSCI 1010 Section 1
-// Project 1
 // Number game
 #include <cmath>
 #include <iostream>
